@@ -1,4 +1,3 @@
-// Snow effect for AzuraCast Public Pages
 (function () {
   const SNOW_COUNT = 250; // adjust if needed
 
